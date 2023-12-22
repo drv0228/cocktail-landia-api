@@ -1,0 +1,42 @@
+[
+    {
+      "id": "1",
+      "name": "Margarita",
+      "original": "from Mexico",
+      "image": "http://localhost:8000/images/cuba_mojito",
+      "ingredients": "Tequila, triple sec, lime juice, salt for rimming",
+      "instructions": "Shake tequila, triple sec, and lime juice with ice. Strain into a glass with a salted rim."
+    },
+    {
+        "id": "2",
+        "name": "Mai Tai",
+        "original": "from United States",
+        "image": "http://localhost:8000/images/cuba_mojito",
+        "ingredients": "Light and dark rum, lime juice, orange liqueur, orgeat syrup.",
+        "instructions": "Shake all ingredients with ice and strain into a glass. Garnish with a lime wheel."
+      },
+      {
+        "id": "3",
+        "name": "Caipirinha",
+        "original": "from Brazil",
+        "image": "http://localhost:8000/images/cuba_mojito",
+        "ingredients": "Cachaça, lime, sugar.",
+        "instructions": "Muddle lime and sugar in a glass, add cachaça and ice, then stir."
+      },
+      {
+        "id": "4",
+        "name": "Negroni",
+        "original": "from Italy",
+        "image": "http://localhost:8000/images/cuba_mojito",
+        "ingredients": "Gin, Campari, sweet vermouth.",
+        "instructions": "Stir all ingredients with ice and strain into a glass. Garnish with an orange twist."
+      },
+      {
+        "id": "5",
+        "name": "Pisco Sour",
+        "original": "from Peru",
+        "image": "http://localhost:8000/images/cuba_mojito",
+        "ingredients": "Pisco, lime juice, simple syrup, egg white, bitters.",
+        "instructions": "Shake pisco, lime juice, simple syrup, and egg white with ice. Strain and add bitters on top."
+      }
+]
