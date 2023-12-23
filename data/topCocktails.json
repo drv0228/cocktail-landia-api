@@ -3,7 +3,7 @@
       "id": "1",
       "name": "Margarita",
       "original": "from Mexico",
-      "image": "http://localhost:8000/images/cuba_mojito",
+      "image": "http://localhost:8000/images/mexico_margarita",
       "ingredients": "Tequila, triple sec, lime juice, salt for rimming",
       "instructions": "Shake tequila, triple sec, and lime juice with ice. Strain into a glass with a salted rim."
     },
@@ -11,7 +11,7 @@
         "id": "2",
         "name": "Mai Tai",
         "original": "from United States",
-        "image": "http://localhost:8000/images/cuba_mojito",
+        "image": "http://localhost:8000/images/usa_mai-tai",
         "ingredients": "Light and dark rum, lime juice, orange liqueur, orgeat syrup.",
         "instructions": "Shake all ingredients with ice and strain into a glass. Garnish with a lime wheel."
       },
@@ -19,7 +19,7 @@
         "id": "3",
         "name": "Caipirinha",
         "original": "from Brazil",
-        "image": "http://localhost:8000/images/cuba_mojito",
+        "image": "http://localhost:8000/images/brazil_caipirinha",
         "ingredients": "Cachaça, lime, sugar.",
         "instructions": "Muddle lime and sugar in a glass, add cachaça and ice, then stir."
       },
@@ -27,7 +27,7 @@
         "id": "4",
         "name": "Negroni",
         "original": "from Italy",
-        "image": "http://localhost:8000/images/cuba_mojito",
+        "image": "http://localhost:8000/images/italy_negroni",
         "ingredients": "Gin, Campari, sweet vermouth.",
         "instructions": "Stir all ingredients with ice and strain into a glass. Garnish with an orange twist."
       },
@@ -35,8 +35,48 @@
         "id": "5",
         "name": "Pisco Sour",
         "original": "from Peru",
-        "image": "http://localhost:8000/images/cuba_mojito",
+        "image": "http://localhost:8000/images/peru_pisco-sour",
         "ingredients": "Pisco, lime juice, simple syrup, egg white, bitters.",
         "instructions": "Shake pisco, lime juice, simple syrup, and egg white with ice. Strain and add bitters on top."
+      },
+      {
+        "id": "6",
+        "name": "Singapore Sling",
+        "original": "from Singapore",
+        "image": "http://localhost:8000/images/singapore_sling",
+        "ingredients": "Gin, cherry brandy, Benedictine, pineapple juice, lime juice, grenadine.",
+        "instructions": "Shake all ingredients with ice and strain into a glass. Garnish with a cherry."
+      },
+      {
+        "id": "7",
+        "name": "Mojito",
+        "original": "from Cuba",
+        "image": "http://localhost:8000/images/cuba_mojito",
+        "ingredients": "White rum, lime, mint, sugar, soda water.",
+        "instructions": "Muddle mint, lime, and sugar. Add rum and ice, top with soda water, and stir."
+      },
+      {
+        "id": "8",
+        "name": "Gin and Tonic",
+        "original": "from United Kingdom",
+        "image": "http://localhost:8000/images/uk_gin-tonic",
+        "ingredients": "Gin, tonic water, lime wedge.",
+        "instructions": "Pour gin and tonic water over ice, garnish with a lime wedge."
+      },
+      {
+        "id": "9",
+        "name": "Pina Colada",
+        "original": "from Puerto Rico",
+        "image": "http://localhost:8000/images/pr_pina-colada",
+        "ingredients": "White rum, coconut cream, pineapple juice.",
+        "instructions": "Blend all ingredients with ice until smooth. Serve in a chilled glass."
+      },
+      {
+        "id": "10",
+        "name": "Moscow Mule",
+        "original": "from Russia",
+        "image": "http://localhost:8000/images/russia_moscow-mule",
+        "ingredients": "Vodka, ginger beer, lime juice.",
+        "instructions": "Pour vodka and ginger beer over ice, squeeze lime juice, and stir."
       }
 ]
