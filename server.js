@@ -7,13 +7,19 @@ const PORT = process.env.PORT;
 
 const app = express();
 
-app.use(
-  cors({
-    origin: "*",
-  })
-);
+app.use(cors({
+  origin: "*",
+  methods: "GET,HEAD,PUT,PATCH,POST,DELETE",
+  preflightContinue: false,
+  optionsSuccessStatus: 204,
+  allowedHeaders: ["Content-Type", "Authorization"],
+  exposedHeaders: ["Content-Range", "X-Content-Range"],
+}));
+
 
 app.use(express.json());
+app.use("/public", express.static("public"));
+
 
 function readCocktailsFile() {
   const cocktailsList = fs.readFileSync("./data/topCocktails.json");
