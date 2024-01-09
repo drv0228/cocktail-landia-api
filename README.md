@@ -45,7 +45,7 @@ less than 786 pixels > then use mobile formatting
 between 786 pixels and less than 1280 pixels > then use tablet formatting
 more than 1280 pixels > then use desktop formatting
 
-This site is using a backend API that can be checked in the Git repository: https://github.com/drv0228/cocktail-landia-api
+This site is using a font end that can be checked in the Git repository: https://github.com/drv0228/cocktailLandia
 
 ###### Contributing
 
