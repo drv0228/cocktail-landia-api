@@ -5,7 +5,8 @@
     "original": "from Mexico",
     "image": "http://localhost:8080/public/images/mexico_margarita.jpeg",
     "ingredients": "Tequila, triple sec, lime juice, salt for rimming",
-    "instructions": "Shake tequila, triple sec, and lime juice with ice. Strain into a glass with a salted rim."
+    "instructions": "Shake tequila, triple sec, and lime juice with ice. Strain into a glass with a salted rim.",
+    "video": "https://www.youtube.com/shorts/Ckp4SUYlBRU"
   },
   {
       "id": "2",
@@ -13,7 +14,8 @@
       "original": "from United States",
       "image": "http://localhost:8080/public/images/usa_mai-tai.jpeg",
       "ingredients": "Light and dark rum, lime juice, orange liqueur, orgeat syrup.",
-      "instructions": "Shake all ingredients with ice and strain into a glass. Garnish with a lime wheel."
+      "instructions": "Shake all ingredients with ice and strain into a glass. Garnish with a lime wheel.",
+      "video": "https://www.youtube.com/shorts/sjqr_jFAW4g"
     },
     {
       "id": "3",
@@ -21,7 +23,8 @@
       "original": "from Brazil",
       "image": "http://localhost:8080/public/images/brazil_caipirinha.jpeg",
       "ingredients": "Cachaça, lime, sugar.",
-      "instructions": "Muddle lime and sugar in a glass, add cachaça and ice, then stir."
+      "instructions": "Muddle lime and sugar in a glass, add cachaça and ice, then stir.",
+      "video": "https://www.youtube.com/shorts/GrJzmHxD6fw"
     },
     {
       "id": "4",
@@ -29,7 +32,8 @@
       "original": "from Italy",
       "image": "http://localhost:8080/public/images/italy_negroni.jpeg",
       "ingredients": "Gin, Campari, sweet vermouth.",
-      "instructions": "Stir all ingredients with ice and strain into a glass. Garnish with an orange twist."
+      "instructions": "Stir all ingredients with ice and strain into a glass. Garnish with an orange twist.",
+      "video": "https://www.youtube.com/shorts/E3GW0R-X7PA"
     },
     {
       "id": "5",
@@ -37,7 +41,8 @@
       "original": "from Peru",
       "image": "http://localhost:8080/public/images/peru_pisco-sour.jpeg",
       "ingredients": "Pisco, lime juice, simple syrup, egg white, bitters.",
-      "instructions": "Shake pisco, lime juice, simple syrup, and egg white with ice. Strain and add bitters on top."
+      "instructions": "Shake pisco, lime juice, simple syrup, and egg white with ice. Strain and add bitters on top.",
+      "video": "https://www.youtube.com/watch?v=u6KTZUv16KU"
     },
     {
       "id": "6",
@@ -45,7 +50,8 @@
       "original": "from Singapore",
       "image": "http://localhost:8080/public/images/singapore_sling.jpeg",
       "ingredients": "Gin, cherry brandy, Benedictine, pineapple juice, lime juice, grenadine.",
-      "instructions": "Shake all ingredients with ice and strain into a glass. Garnish with a cherry."
+      "instructions": "Shake all ingredients with ice and strain into a glass. Garnish with a cherry.",
+      "video": "https://www.youtube.com/watch?v=HJzu8k4c7lg"
     },
     {
       "id": "7",
@@ -53,7 +59,8 @@
       "original": "from Cuba",
       "image": "http://localhost:8080/public/images/cuba_mojito.jpeg",
       "ingredients": "White rum, lime, mint, sugar, soda water.",
-      "instructions": "Muddle mint, lime, and sugar. Add rum and ice, top with soda water, and stir."
+      "instructions": "Muddle mint, lime, and sugar. Add rum and ice, top with soda water, and stir.",
+      "video": "https://www.youtube.com/shorts/uZRW-g7xhxE"
     },
     {
       "id": "8",
@@ -61,7 +68,8 @@
       "original": "from United Kingdom",
       "image": "http://localhost:8080/public/images/uk_gin-tonic.jpeg",
       "ingredients": "Gin, tonic water, lime wedge.",
-      "instructions": "Pour gin and tonic water over ice, garnish with a lime wedge."
+      "instructions": "Pour gin and tonic water over ice, garnish with a lime wedge.",
+      "video": "https://www.youtube.com/watch?v=1HCL6eAmCT4"
     },
     {
       "id": "9",
@@ -69,7 +77,8 @@
       "original": "from Puerto Rico",
       "image": "http://localhost:8080/public/images/pr_pina-colada.jpeg",
       "ingredients": "White rum, coconut cream, pineapple juice.",
-      "instructions": "Blend all ingredients with ice until smooth. Serve in a chilled glass."
+      "instructions": "Blend all ingredients with ice until smooth. Serve in a chilled glass.",
+      "video": "https://www.youtube.com/watch?v=_0NKbYXv-PI"
     },
     {
       "id": "10",
@@ -77,6 +86,7 @@
       "original": "from Russia",
       "image": "http://localhost:8080/public/images/russia_moscow-mule.jpeg",
       "ingredients": "Vodka, ginger beer, lime juice.",
-      "instructions": "Pour vodka and ginger beer over ice, squeeze lime juice, and stir."
+      "instructions": "Pour vodka and ginger beer over ice, squeeze lime juice, and stir.",
+      "video": "https://www.youtube.com/watch?v=J7X-AeGHPcE"
     }
 ]
