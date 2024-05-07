@@ -8,7 +8,8 @@ const PORT = process.env.PORT;
 const app = express();
 
 app.use(cors({
-  origin: "*",
+  // origin: "*",
+  origin: 'https://cocktaillandia.netlify.app',
   methods: "GET,HEAD,PUT,PATCH,POST,DELETE",
   preflightContinue: false,
   optionsSuccessStatus: 204,
